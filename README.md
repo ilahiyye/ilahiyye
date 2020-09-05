@@ -10,7 +10,7 @@
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Python;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 🤔 I’m looking for help with Data Structures;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me ilahiyye@gmail.com
 - 👯 I love to meet new people!!!
